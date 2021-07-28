@@ -5,6 +5,10 @@ plugins {
     id("com.lcy.plugin")
 }
 
+lcy {
+    name = "hahaha"
+}
+
 android {
     compileSdkVersion(31)
     buildToolsVersion("31.0.0")
