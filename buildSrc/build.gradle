@@ -1,0 +1,6 @@
+dependencies {
+    implementation fileTree(dir: 'libs', includes: ['*.jar'])
+}
+
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7

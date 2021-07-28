@@ -1,1 +1,3 @@
 # CharlesCode
+KVManager封装MMKV库基本使用
+自定义gradle plugin
